@@ -3,3 +3,4 @@
 # package>=version
 google-cloud-storage==1.26.0
 requests==2.23.0
+apache-beam==2.23.0
